@@ -34,7 +34,7 @@ This repository provides the code used for processing and analysis of NGS data[^
 
 <br>
 
-[^1]: *All the raw sequencing files and the respective processed data can be retrieved from the GEO database under the SuperSeries with accession number [GSE200488](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE200360).*
+[^1]: *All the raw sequencing files and the respective processed data can be retrieved from the GEO database under the SuperSeries with accession number [GSE200360](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE200360).*
 
 [^2]: *To run locally the configuration files and the scripts provided here must be modified accordingly to be adapted to the system settings.*
 
